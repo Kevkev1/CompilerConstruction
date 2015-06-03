@@ -1,0 +1,7 @@
+var IPADDRESS = "127.0.0.1";
+var KEYBOARDPORT = 9161;
+var MOUSEPORT = 9162;
+var GRAPHICALPORT = 9163;
+
+var CONTAINERNAME = "IOcanvasWrapper";
+var CANVASPREFIX = "canvas";
